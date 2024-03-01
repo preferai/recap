@@ -3,7 +3,7 @@
 ## Introduction
 Welcome to RECAP! This project is dedicated to advancing recommender systems by utilizing implicit feedback from conversational agent interactions, all while maintaining user anonymity. Our aim is to enhance how conversational agents understand and predict user preferences in real-time, ensuring a personalized and engaging user experience.
 
-![RECAP Pipeline](RECAP_Workflow.png)
+![RECAP Pipeline](RECAP.png)
 
 ## Objectives
 - Advance Preference Elicitation: Develop innovative methods to extract and leverage subtle cues from user-agent dialogues, improving the personalization of agent responses.
